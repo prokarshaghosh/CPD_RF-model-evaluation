@@ -1,1 +1,4 @@
-# CPD_RF-model-evaluation
+# eart Failure Prediction:CPD_RF-model-evaluation
+
+This study applies a Machine Learning approach, specifically Random Forest, to predict heart failure outcomes using the Continuous Poisson distribution model, which is associated with the complete Gamma function. The model leverages heart rate data to provide a probabilistic framework for assessing the likelihood of heart failure events. The performance of the model is evaluated using the Receiver Operating Characteristic (ROC) curve, with the area under the curve (AUC) serving as a key metric for classification accuracy. The results demonstrate the potential of combining the statistical robustness of the Continuous Poisson distribution with the predictive power of Random Forests to enhance heart failure risk prediction. The ROC-AUC analysis highlights the model’s ability to discriminate between positive and negative heart failure instances, underscoring its relevance for clinical decision-making and risk assessment in cardiovascular health management.
+
